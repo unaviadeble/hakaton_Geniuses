@@ -1,1 +1,2 @@
-# hakaton_Geniuses
+# Решение кеса для Хакатона
+## Команда Geniuses
