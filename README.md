@@ -13,4 +13,4 @@
 - Кнопки записи на прогулку, взять на временную передержку, взять на опекунство и добавить в избранное
 
 ## 🔗 [Ссылка на сайт](https://dobriye-ruki.glide.page/)
-## Ссылка на презентацию: https://docs.google.com/presentation/d/1m3JGz761wcEYJmd6C2A5ANq4s8JaqLr2yxV62psaR4o/edit#slide=id.g2d03e9b5584_3_17
+## 🔗 [Ссылка на презентацию] (https://docs.google.com/presentation/d/1m3JGz761wcEYJmd6C2A5ANq4s8JaqLr2yxV62psaR4o/edit#slide=id.g2d03e9b5584_3_17)
